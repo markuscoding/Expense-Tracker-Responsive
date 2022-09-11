@@ -165,7 +165,7 @@ input[type="number"] {
 }
 
 /* Portrait */
-@media (min-width: 375px) and (max-width: 925px) {
+@media (min-width: 375px) {
   .main-wrapper {
     margin-left: 1px;
     width: 100%;
